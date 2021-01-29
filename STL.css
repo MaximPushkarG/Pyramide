@@ -1,0 +1,29 @@
+.block1 {
+width: 90%;
+height: 40%;
+margin: 0 auto;
+align = center;
+text-align:  center;
+background:  #da70d6;
+font-family: fantasy;
+font-size: 40px;
+color: #f8f8ff}
+
+.block2 {
+width: 76%;
+margin: 0 auto;
+text-align:  center;
+background: #FFFAFA;
+border: solid 2px #da70d6;
+font-family: ARIAL BLACK;
+font-color: #da70d6;
+font-size: 19px;
+color: #000000;}
+
+.control {
+text-align:  center;
+height: 40%;
+padding: 10px;
+background:  #a9a9a9;
+text-align: center;
+}
